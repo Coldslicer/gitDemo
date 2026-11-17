@@ -2,3 +2,4 @@ STORY:
 
 A: Once upon a time, there was a guy named Panda.
 B: He owned a potato farm. 
+B: Unfortunately, it got infected by ants.
