@@ -2,3 +2,5 @@ STORY:
 
 A: Once upon a time, there was a guy named Panda.
 B: He owned a potato farm. 
+A: One day, while working at his potato farm, Bob
+    dropped his plough in a lake.
