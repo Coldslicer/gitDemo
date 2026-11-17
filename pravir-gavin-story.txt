@@ -1,7 +1,2 @@
-<<<<<<< HEAD
-I went to Alg2/Trig today.
-
 I ate a cookie there.
-=======
 I went to Alg2/Trig today. I completed the notes.
->>>>>>> a0ed009f4ae7d3f2add4d581f84bbf5b82678651
