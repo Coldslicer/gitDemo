@@ -5,3 +5,4 @@ B: He owned a potato farm.
 B: Unfortunately, it got infected by ants. He became broke and really stressed.
 A: One day, while working at his potato farm, Bob
     dropped his plough in a lake.
+A: The ants that had infected the field swarmed into the lake and took the plough away, so Bob became really depressed because he couldn't even work anymore.
